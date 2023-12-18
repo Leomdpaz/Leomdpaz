@@ -1,8 +1,10 @@
 # <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm Leo!</h1>
 
 #### <p align="center">I'm on the path to becoming an icon in the realm of AI innovation.</p>
+<br>
 
-  <div style="display: inline_block"><br>
+**<p align = "center">🖥️ SKILLS</p>**
+  <div style="display: inline_block">
     <p align="center">
       <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
       <img align="center" alt="Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -16,6 +18,9 @@
 
   ##
 
+  <br>
+  
+**<p align = "center">📧 CONTACT</p>**
 <div> 
    <p align="center">
   <a href="https://www.linkedin.com/in/leomdpaz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
