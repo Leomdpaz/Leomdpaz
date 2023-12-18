@@ -1,6 +1,6 @@
 # <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm Leo!</h1>
 
-#### <p align="center">I'm on the path to becoming an icon in the realm of AI innovation.</p>
+#### <p align="center">I'm on the path to becoming an icon in the realm of Artificial Inteligence innovation.</p>
 <br>
 
 **<p align = "center">🖥️ SKILLS</p>**
