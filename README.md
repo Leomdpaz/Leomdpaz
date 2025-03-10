@@ -6,7 +6,7 @@
 **<p align = "center">🖥️ SKILLS</p>**
   <div style="display: inline_block">
     <p align="center">
-      <img src="https://skillicons.dev/icons?i=python,js,csharp,cpp,html,css,java" />
+      <img src="https://skillicons.dev/icons?i=python,js,cs,cpp,html,css,java,dotnet,ps" />
     </p>
     </p>
   </div>
