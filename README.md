@@ -18,7 +18,7 @@
 <div> 
    <p align="center">
   <a href="https://www.linkedin.com/in/leomdpaz" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
-  <a href="mailto:leomacielpaz@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="mailto:leomacielpaz@hotmail.com" target="_blank"><img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg&logoColor=white" target="_blank"></a>
   <a href = "mailto:leomacielpaz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/leomdpaz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   </p>
