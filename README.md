@@ -12,7 +12,7 @@
       <img align="center" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
       <img align="center" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
       <img align="center" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
-      <img align="center" alt="CSS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png?style=for-the-badge&logo=css3&logoColor=white">
+      <img align="center" alt="CSS" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000?style=for-the-badge&logo=css3&logoColor=white">
     </p>
     </p>
   </div>
