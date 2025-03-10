@@ -3,7 +3,6 @@
 #### <p align="center">I'm on the path to becoming an icon in the realm of Artificial Inteligence innovation.</p>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,csharp,cpp,html,css,java" />
   </a>
 </p>
