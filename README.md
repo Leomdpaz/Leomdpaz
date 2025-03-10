@@ -15,7 +15,7 @@
 
   
 **<p align = "center">📧 CONTACT</p>**
-****<p align = "center">Click on the icon</p>****
+_****<p align = "center">Click on the icon</p>****_
 <div> 
    <p align="center">
   <a href="https://www.linkedin.com/in/leomdpaz" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
