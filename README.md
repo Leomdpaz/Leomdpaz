@@ -2,11 +2,11 @@
 
 #### <p align="center">I'm on the path to becoming an icon in the realm of Artificial Inteligence innovation.</p>
 <br>
+[![My Skills](https://skillicons.dev/icons?i=python,js,csharp,cpp,html,css,java)](https://skillicons.dev)
 
 **<p align = "center">🖥️ SKILLS</p>**
   <div style="display: inline_block">
     <p align="center">
-      [![My Skills](https://skillicons.dev/icons?i=python,js,csharp,cpp,html,css,java)](https://skillicons.dev)
       <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
       <img align="center" alt="Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white">
       <img align="center" alt="Csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
